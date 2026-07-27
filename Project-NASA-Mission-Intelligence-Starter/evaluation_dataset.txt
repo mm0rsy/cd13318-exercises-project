@@ -1,0 +1,28 @@
+# NASA Mission Intelligence — Evaluation Dataset
+# Format: one question per line. Lines starting with # are comments.
+# Categories covered: overview, emergency, disaster_analysis, crew, technical, timeline
+
+# --- Overview ---
+What was the primary objective of the Apollo 11 mission?
+What was the overall goal of the Apollo 13 mission before the accident occurred?
+What was the Challenger mission STS-51L intended to accomplish?
+
+# --- Emergency / Crisis ---
+What emergency did Apollo 13 encounter during its mission and how did the crew respond?
+What warning signs or anomalies were present before the Challenger disaster occurred?
+
+# --- Disaster Analysis ---
+What caused the Apollo 13 oxygen tank explosion and what systems were affected?
+What technical failure caused the Space Shuttle Challenger to break apart after launch?
+
+# --- Crew ---
+Who were the crew members of Apollo 11 and what were their roles?
+Who were the astronauts aboard Apollo 13 and how did they survive the crisis?
+
+# --- Technical ---
+How did Mission Control and the Apollo 13 crew work together to return the spacecraft safely to Earth?
+What propulsion and navigation procedures were used during the Apollo 11 lunar descent and ascent?
+
+# --- Timeline ---
+What were the key events and milestones during the Apollo 11 mission from launch to splashdown?
+Describe the sequence of events during the Challenger launch on January 28, 1986.
